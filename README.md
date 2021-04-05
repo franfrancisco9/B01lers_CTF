@@ -25,12 +25,12 @@ The last one was this:
 ![Image of Bars, Windchests, Vocals](https://github.com/franfrancisco9/B01lers_CTF/blob/main/Bars,%20Windchests,%20Vocals.png)
 
 Which by a quick search is the famous Toccata BWV 565 by Bach and in the lower right corner is a code:
-
+```python3
 I + VII + 1 = 700			
 V – VI = ?00
 XI – XII = 200     
 V + IX = 900
-
+```
 Which at first was really confusing and I tried to check the keys of the different pieces.
 
 Only later after researching some of the other pieces by the name and confirming my suspicious that they were all Bach, that I thought about the BWV number, a numeric system used to catalogue the bach pieces!
